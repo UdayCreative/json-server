@@ -1,7 +1,7 @@
 # json-server
 
 # Live Link : 
-    - https://json-server-ob37.onrender.com/
+     https://json-server-ob37.onrender.com/
 
 # How to Create a json-server and how to deploy:
 
