@@ -1,324 +1,245 @@
 {
-  "data": [
+  "cars": [
     {
       "id": 1,
-      "brand": "roadster",
-      "title": "cotton Checked Casual Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 844
+      "image": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1660727815.png",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 600000
     },
     {
       "id": 2,
-      "brand": "blackberrys",
-      "title": "Regukar Fit Printed Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 699
+      "image": "http://www.pngimagesfree.com/Car/Tata/Nxon/SMALL/Tata-NEXON-PNG_RED-image_PNG.png",
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     },
     {
       "id": 3,
-      "brand": "van-heusen",
-      "title": "Regukar Fit Printed Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 1400
+      "image": "http://www.pngimagesfree.com/Car/Tata/small/TATA-TIAGO-PNG-New.png",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2018,
+      "kms": 5000,
+      "Description": "Tata TIAGO with all original documents",
+      "Price": 750000
     },
     {
       "id": 4,
-      "brand": "van-heusen",
-      "title": "Cotton Fit Printed Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 1500
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Celerio-Car-png.png",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2018,
+      "kms": 2000,
+      "Description": "Tata CELERIO with all original documents",
+      "Price": 600000
     },
     {
       "id": 5,
-      "brand": "van-heusen",
-      "title": "Cotton Fit Printed Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 1299
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Maruti-Alto-K10-Car-png.png",
+      "brand": "Maruti",
+      "type": "ATM",
+      "year": 2015,
+      "kms": 2000,
+      "Description": "Maruti Alto K10 with all original documents",
+      "Price": 500000
     },
     {
       "id": 6,
-      "brand": "allen-solly",
-      "title": "Checked Regular Fit Printed Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 999
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/WagonR-Car-Png.png",
+      "brand": "Maruti",
+      "type": "Manual",
+      "year": 2013,
+      "kms": 5000,
+      "Description": "Maruti WagonR with all original documents",
+      "Price": 200000
     },
     {
       "id": 7,
-      "brand": "allen-solly",
-      "title": "Checked Regular Fit Printed Shirt",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 1999
+      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai_Car_PNG.png",
+      "brand": "Hyundai",
+      "type": "ATM",
+      "year": 2015,
+      "kms": 15000,
+      "Description": "Hyundai Verna with all original documents",
+      "Price": 550000
     },
     {
       "id": 8,
-      "brand": "roadster",
-      "title": "Men Linen Regular Fit",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 599
+      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai-i10_Grand-Passion-R.png",
+      "brand": "Hyundai",
+      "type": "Manual",
+      "year": 2015,
+      "kms": 8000,
+      "Description": "Hyundai i10 with all original documents",
+      "Price": 350000
     },
     {
       "id": 9,
-      "brand": "twills",
-      "title": "Men Linen Regular Fit",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 799
+      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai_i20_PNG-image.png",
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2020,
+      "kms": 3000,
+      "Description": "Hyundai i20 with all original documents",
+      "Price": 600000
     },
     {
       "id": 10,
-      "brand": "twills",
-      "title": "Men Linen Regular Fit",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 1099
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Celerio-Car-png.png",
+      "brand": "Tata",
+      "type": "ATM",
+      "year": 2021,
+      "kms": 3000,
+      "Description": "Tata CELERIO with all original documents",
+      "Price": 450000
     },
     {
       "id": 11,
-      "brand": "twills",
-      "title": "Men Linen Regular Fit",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 1450
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Maruti-Alto-K10-Car-png.png",
+      "brand": "Maruti",
+      "type": "ATM",
+      "year": 2015,
+      "kms": 2000,
+      "Description": "Maruti Alto K10 with all original documents",
+      "Price": 500000
     },
     {
       "id": 12,
-      "brand": "twills",
-      "title": "Men Linen Regular Fit",
-      "image": "https://picsum.photos/200",
-      "category": "men",
-      "price": 2700
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/WagonR-Car-Png.png",
+      "brand": "Maruti",
+      "type": "Manual",
+      "year": 2013,
+      "kms": 5000,
+      "Description": "Maruti WagonR with all original documents",
+      "Price": 200000
     },
     {
       "id": 13,
-      "brand": "blackberrys",
-      "title": "Men Linen Regular Fit",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 1650
+      "image": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1660727815.png",
+      "brand": "Suzuki",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Suzuki VItara Breza with all original documents",
+      "Price": 600000
     },
     {
       "id": 14,
-      "brand": "blackberrys",
-      "title": "A line kurta",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 1750
+      "image": "http://www.pngimagesfree.com/Car/Tata/Nxon/SMALL/Tata-NEXON-PNG_RED-image_PNG.png",
+      "brand": "Skoda",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Skoda with all original documents",
+      "Price": 800000
     },
     {
       "id": 15,
-      "brand": "allen-solly",
-      "title": "A line kurta",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 1350
+      "image": "http://www.pngimagesfree.com/Car/Tata/small/TATA-TIAGO-PNG-New.png",
+      "brand": "Suzuki",
+      "type": "Manual",
+      "year": 2018,
+      "kms": 5000,
+      "Description": "Suzuki with all original documents",
+      "Price": 750000
     },
     {
       "id": 16,
-      "brand": "van-heusen",
-      "title": "Anarkali kurta",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 1200
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Celerio-Car-png.png",
+      "brand": "Skoda",
+      "type": "Manual",
+      "year": 2018,
+      "kms": 2000,
+      "Description": "Skoda with all original documents",
+      "Price": 600000
     },
     {
       "id": 17,
-      "brand": "van-heusen",
-      "title": "Anarkali kurta",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 1250
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Maruti-Alto-K10-Car-png.png",
+      "brand": "Maruti",
+      "type": "ATM",
+      "year": 2015,
+      "kms": 2000,
+      "Description": "Maruti Alto K10 with all original documents",
+      "Price": 500000
     },
     {
       "id": 18,
-      "brand": "twills",
-      "title": "Anarkali kurta",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 2699
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/WagonR-Car-Png.png",
+      "brand": "Suzuki",
+      "type": "Manual",
+      "year": 2013,
+      "kms": 5000,
+      "Description": "Suzuki WagonR with all original documents",
+      "Price": 200000
     },
     {
       "id": 19,
-      "brand": "van-heusen",
-      "title": "Max slit kurta",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 2135
+      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai_Car_PNG.png",
+      "brand": "Skoda",
+      "type": "ATM",
+      "year": 2015,
+      "kms": 15000,
+      "Description": "Skoda with all original documents",
+      "Price": 550000
     },
     {
       "id": 20,
-      "brand": "van-huesen",
-      "title": "Ethnic Embroidary Kurti",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 2499
+      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai-i10_Grand-Passion-R.png",
+      "brand": "Skoda",
+      "type": "Manual",
+      "year": 2015,
+      "kms": 8000,
+      "Description": "Skoda with all original documents",
+      "Price": 350000
     },
     {
       "id": 21,
-      "brand": "blackberrys",
-      "title": "Printed Straight Kurti",
-      "image": "https://picsum.photos/200",
-      "category": "women",
-      "price": 2599
+      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai_i20_PNG-image.png",
+      "brand": "Maruti",
+      "type": "Manual",
+      "year": 2020,
+      "kms": 3000,
+      "Description": "Maruti with all original documents",
+      "Price": 600000
     },
     {
       "id": 22,
-      "brand": "blackberrys",
-      "title": "Printed Straight Kurti",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 2399
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Celerio-Car-png.png",
+      "brand": "Tata",
+      "type": "ATM",
+      "year": 2021,
+      "kms": 3000,
+      "Description": "Tata CELERIO with all original documents",
+      "Price": 450000
     },
     {
       "id": 23,
-      "brand": "twills",
-      "title": "Girls Print Flared Dress",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 1799
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Maruti-Alto-K10-Car-png.png",
+      "brand": "Skoda",
+      "type": "ATM",
+      "year": 2015,
+      "kms": 2000,
+      "Description": "Maruti Alto K10 with all original documents",
+      "Price": 500000
     },
     {
       "id": 24,
-      "brand": "allen-solly",
-      "title": "Girls Solid Print Flared Dress",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 3599
-    },
-    {
-      "id": 25,
-      "brand": "van-heusen",
-      "title": "Girls Checked Print Flared Dress",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 4599
-    },
-    {
-      "id": 26,
-      "brand": "blackberrys",
-      "title": "Girls Checked Print Flared Dress",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 4599
-    },
-    {
-      "id": 27,
-      "brand": "roadster",
-      "title": "Some Roadster Tshirt",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 3099
-    },
-    {
-      "id": 28,
-      "brand": "twills",
-      "title": "Pack of 3 Boys T-shirts",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 3499
-    },
-    {
-      "id": 29,
-      "brand": "blackberrys",
-      "title": "Boys Color Blocked T-shirt",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 2899
-    },
-    {
-      "id": 30,
-      "brand": "twills",
-      "title": "Pack of 3 Round Necked Shirts",
-      "image": "https://picsum.photos/200",
-      "category": "kids",
-      "price": 2299
-    },
-    {
-      "id": 31,
-      "brand": "blackberrys",
-      "title": "Set of 2 Artificial bunches",
-      "image": "https://picsum.photos/200",
-      "category": "homedecor",
-      "price": 2280
-    },
-    {
-      "id": 32,
-      "brand": "twills",
-      "title": "Artificial Bamboo plants",
-      "image": "https://picsum.photos/200",
-      "category": "homedecor",
-      "price": 1375
-    },
-    {
-      "id": 33,
-      "brand": "allen-solly",
-      "title": "Artificial flowers with pot",
-      "image": "https://picsum.photos/200",
-      "category": "homedecor",
-      "price": 1470
-    },
-    {
-      "id": 34,
-      "brand": "blackberrys",
-      "title": "Set of 3 wall paintings",
-      "image": "https://picsum.photos/200",
-      "category": "homedecor",
-      "price": 6050
-    },
-    {
-      "id": 35,
-      "brand": "twills",
-      "title": "Set of photo frames",
-      "image": "https://picsum.photos/200",
-      "category": "homedecor",
-      "price": 3499
-    },
-    {
-      "id": 36,
-      "brand": "allen-solly",
-      "title": "Bird nest on tree",
-      "image": "https://picsum.photos/200",
-      "price": 2050,
-      "category": "homedecor"
-    },
-    {
-      "id": 37,
-      "brand": "blackberrys",
-      "title": "Handcrafted Leather crafted",
-      "image": "https://picsum.photos/200",
-      "price": 1950,
-      "category": "homedecor"
-    },
-    {
-      "id": 38,
-      "brand": "twills",
-      "title": "Handcrafted Leather crafted",
-      "image": "https://picsum.photos/200",
-      "price": 1850,
-      "category": "homedecor"
-    },
-    {
-      "id": 39,
-      "brand": "allen-solly",
-      "title": "Hour glass",
-      "image": "https://picsum.photos/200",
-      "price": 1750,
-      "category": "homedecor"
-    },
-    {
-      "id": 40,
-      "brand": "twills",
-      "title": "Set of 3 Owl",
-      "image": "https://picsum.photos/200",
-      "price": 3500,
-      "category": "homedecor"
+      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/WagonR-Car-Png.png",
+      "brand": "Maruti",
+      "type": "Manual",
+      "year": 2013,
+      "kms": 5000,
+      "Description": "Maruti WagonR with all original documents",
+      "Price": 200000
     }
-  ]
+  ],
+  "wishlisted_cars": []
 }
