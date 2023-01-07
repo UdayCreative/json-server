@@ -2,9 +2,9 @@
 
 # Live Link : https://json-server-ob37.onrender.com/
 
-# How to Create a json-server and how to deploy:
+# How to Create a json-server and how to deploy : 
 
-# json-server: 
+# json-server : 
 
 1. Create the new repository on GitHub
 2. Clone the repository in your system
@@ -27,7 +27,7 @@
 11. git commit -m 'commit the message'
 12. git push origin 'branch-name'
 
-# Deployment:
+# Deployment :
 
 1. Open the render.com website and signup/signin and open dashboard.render.com
 2. Click on new+ tab
