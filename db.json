@@ -149,100 +149,10 @@
       "kms": 5000,
       "Description": "Suzuki with all original documents",
       "Price": 750000
-    },
-    {
-      "id": 16,
-      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Celerio-Car-png.png",
-      "brand": "Skoda",
-      "type": "Manual",
-      "year": 2018,
-      "kms": 2000,
-      "Description": "Skoda with all original documents",
-      "Price": 600000
-    },
-    {
-      "id": 17,
-      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Maruti-Alto-K10-Car-png.png",
-      "brand": "Maruti",
-      "type": "ATM",
-      "year": 2015,
-      "kms": 2000,
-      "Description": "Maruti Alto K10 with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 18,
-      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/WagonR-Car-Png.png",
-      "brand": "Suzuki",
-      "type": "Manual",
-      "year": 2013,
-      "kms": 5000,
-      "Description": "Suzuki WagonR with all original documents",
-      "Price": 200000
-    },
-    {
-      "id": 19,
-      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai_Car_PNG.png",
-      "brand": "Skoda",
-      "type": "ATM",
-      "year": 2015,
-      "kms": 15000,
-      "Description": "Skoda with all original documents",
-      "Price": 550000
-    },
-    {
-      "id": 20,
-      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai-i10_Grand-Passion-R.png",
-      "brand": "Skoda",
-      "type": "Manual",
-      "year": 2015,
-      "kms": 8000,
-      "Description": "Skoda with all original documents",
-      "Price": 350000
-    },
-    {
-      "id": 21,
-      "image": "http://www.pngimagesfree.com/Car/hyundai/Thumb/hyundai_i20_PNG-image.png",
-      "brand": "Maruti",
-      "type": "Manual",
-      "year": 2020,
-      "kms": 3000,
-      "Description": "Maruti with all original documents",
-      "Price": 600000
-    },
-    {
-      "id": 22,
-      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Celerio-Car-png.png",
-      "brand": "Tata",
-      "type": "ATM",
-      "year": 2021,
-      "kms": 3000,
-      "Description": "Tata CELERIO with all original documents",
-      "Price": 450000
-    },
-    {
-      "id": 23,
-      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/Maruti-Alto-K10-Car-png.png",
-      "brand": "Skoda",
-      "type": "ATM",
-      "year": 2015,
-      "kms": 2000,
-      "Description": "Maruti Alto K10 with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 24,
-      "image": "http://www.pngimagesfree.com/Car/Maruti/Thumb/WagonR-Car-Png.png",
-      "brand": "Maruti",
-      "type": "Manual",
-      "year": 2013,
-      "kms": 5000,
-      "Description": "Maruti WagonR with all original documents",
-      "Price": 200000
     }
   ],
   "wishlisted_cars": [],
   "users": [],
-  "admin": [],
-  "tasks": []
+  "tasks": [],
+  "admin": []
 }
