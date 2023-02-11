@@ -157,5 +157,5 @@
   "admin": [],
   "dogs": [],
   "books": [],
-  "blogs": [{ "comments": [] }]
+  "blogs": []
 }
