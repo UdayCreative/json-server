@@ -156,5 +156,6 @@
   "tasks": [],
   "admin": [],
   "dogs": [],
-  "books":[]
+  "books": [],
+  "blogs": [{ "comments": [] }]
 }
